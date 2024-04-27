@@ -7,8 +7,8 @@ Sample node module template by Tib0. Shipped with:
 - [x] TypeScript
 - [x] Prettier
 - [x] Eslint
-- [x] Tsup 
 - [x] Pnpm
+- [x] Tsup 
 - [x] Jest
 
 # USE
