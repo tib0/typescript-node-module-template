@@ -7,7 +7,7 @@
     "Typescript Node Module Template (tnmt) by Tib0, featuring jest, tsup, vscode, pnpm, eslint and prettier.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tib0/tib0-typescript-node-module-template.git"
+    "url": "https://github.com/tib0/typescript-node-module-template.git"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
